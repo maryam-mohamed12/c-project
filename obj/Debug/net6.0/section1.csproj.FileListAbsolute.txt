@@ -1,0 +1,15 @@
+C:\Users\90425\Desktop\maryam c#\bin\Debug\net6.0\section1.deps.json
+C:\Users\90425\Desktop\maryam c#\bin\Debug\net6.0\section1.dll
+C:\Users\90425\Desktop\maryam c#\bin\Debug\net6.0\section1.pdb
+C:\Users\90425\Desktop\maryam c#\obj\Debug\net6.0\section1.csproj.AssemblyReference.cache
+C:\Users\90425\Desktop\maryam c#\obj\Debug\net6.0\section1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90425\Desktop\maryam c#\obj\Debug\net6.0\section1.AssemblyInfoInputs.cache
+C:\Users\90425\Desktop\maryam c#\obj\Debug\net6.0\section1.AssemblyInfo.cs
+C:\Users\90425\Desktop\maryam c#\obj\Debug\net6.0\section1.csproj.CoreCompileInputs.cache
+C:\Users\90425\Desktop\maryam c#\obj\Debug\net6.0\section1.dll
+C:\Users\90425\Desktop\maryam c#\obj\Debug\net6.0\refint\section1.dll
+C:\Users\90425\Desktop\maryam c#\obj\Debug\net6.0\section1.pdb
+C:\Users\90425\Desktop\maryam c#\obj\Debug\net6.0\ref\section1.dll
+C:\Users\90425\Desktop\maryam c#\bin\Debug\net6.0\section1.exe
+C:\Users\90425\Desktop\maryam c#\bin\Debug\net6.0\section1.runtimeconfig.json
+C:\Users\90425\Desktop\maryam c#\obj\Debug\net6.0\section1.genruntimeconfig.cache
