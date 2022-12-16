@@ -1,6 +1,3 @@
-
-using System.Data;
-using Internal;
 using System;
 namespace OopSection;
 
