@@ -1,1 +1,1 @@
-# this file contain a very simple program in c#
+# this file contain oop in c#
