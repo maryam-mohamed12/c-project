@@ -47,6 +47,8 @@ public class Program
        Console.Write("GPA :");
        var gpa = convert.ToInt32(Console.ReadLine());
        var student = new Student(name,age,year,gpa);
+       database.AddStudent(student);
+
 
 
     }
